@@ -34,7 +34,7 @@ int main()
     cout<<"X - ";
     x=check(x);
     while(x==0){
-        cout<<"ÍÀ ÍÓËÜ Ä²ËÈÒÈ ÍÅ ÌÎÆÍÀ!"<<endl;
+        cout<<"ÍÀ ÍÓËÜ ÄIËÈÒÈ ÍÅ ÌÎÆÍÀ!"<<endl;
         x=check(x);
     }
     cout<<"Y - ";
