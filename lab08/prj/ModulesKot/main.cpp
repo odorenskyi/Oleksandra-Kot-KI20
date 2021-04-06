@@ -11,6 +11,6 @@ float s_calculation(float x, float y, float z){
 
 void draw(){
     setlocale(LC_ALL, "Russian");
-    cout<<"<<<  Розробник - Кот Олександра Романівна  ЦНТУ 2021 (c)  >>>"<<endl;
+    cout<<"<<<  Розробник - Кот Олександра Романiвна  ЦНТУ 2021 (c)  >>>"<<endl;
 }
 
