@@ -1,6 +1,7 @@
 # depslib dependency file v1.0
-1616619789 source:g:\codeblocks\moduleskot\main.cpp
+1617871648 source:g:\codeblocks\moduleskot\main.cpp
 	"ModulesKot.h"
 	<iostream>
 	<math.h>
+	<string>
 
