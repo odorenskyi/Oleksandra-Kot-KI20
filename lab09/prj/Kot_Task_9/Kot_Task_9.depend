@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1617964833 source:g:\codeblocks\kot_task_9\main.cpp
+	<iostream>
+	"ModulesKot.h"
+	<windows.h>
+
