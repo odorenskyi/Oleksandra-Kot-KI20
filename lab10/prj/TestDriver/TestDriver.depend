@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1622104678 source:g:\codeblocks\ testdriver\main.cpp
+	<iostream>
+	<fstream>
+	<windows.h>
+	"ModulesKot.h"
+
